@@ -9,6 +9,8 @@
 
 Для создания бота используется pyTelegramBotAPI (https://github.com/eternnoir/pyTelegramBotAPI/blob/master/README.md)
 
+Плученные значения BOT_TOKEN (при регистрации бота в @BotFather в Telegram) и KEY (при регистрации на rapidapi.com) необходимо добавить в файл .env.
+
 ## Описание работы команд
 ### Команда /start
 1. Запускается при запуске бота либо при вводе команды пользователем. 
